@@ -1,3 +1,4 @@
+
 {
     "cursos":[
         {
@@ -23,7 +24,7 @@
         },
         {
             "id": 4,
-          "titulo": "React desde cero.",
+          "titulo": "JavaScript desde cero.",
           "imagen": "https://edteam-media.s3.amazonaws.com/courses/original/61e5a210-8dab-412e-a6dc-802c070cc18c.jpg",
           "price" : 60,
           "professor": "Beto Quiroga"
